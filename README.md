@@ -1,20 +1,22 @@
-# PHP MySQL Project
+# Pharmacy Management System
 
-A web-based application developed using **PHP** and **MySQL** that demonstrates core backend concepts such as CRUD operations, database connectivity, and basic authentication.
+A web-based **Pharmacy Management System** developed using **PHP** and **MySQL**.  
+This project helps manage medicines, sales, stock levels, and basic pharmacy operations in a simple and efficient way.
 
 ## 📌 Features
-- Create, Read, Update, Delete (CRUD) functionality  
-- MySQL database integration  
-- Simple and clean UI  
-- Secure database connection using PHP  
-- Modular and easy-to-understand code structure  
+- Medicine management (Add, View, Update, Delete)
+- Stock tracking (low stock alerts)
+- Sales management
+- Database-driven system using MySQL
+- Simple and user-friendly interface
+- Secure database connection with PHP
 
 ## 🛠️ Technologies Used
-- PHP  
-- MySQL  
-- HTML  
-- CSS    
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript (optional)
 - Apache Server (XAMPP)
 
 ## 📂 Project Structure
-
